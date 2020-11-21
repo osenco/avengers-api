@@ -26,7 +26,7 @@
       alt="Vue logo"
       src="https://www.pinclipart.com/picdir/big/202-2027585_avengers-logo-white-png-clipart.png"
       class="home-logo"
-      width="90%"
+      width="350px"
     />
   </div>
     </body>
